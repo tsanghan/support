@@ -1,0 +1,1 @@
+k run nm2 --namespace default --image wbitt/network-multitool:minimal

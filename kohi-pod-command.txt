@@ -1,0 +1,1 @@
+k run kohi --namespace default --image tsanghan/kopi-teh:v1 --port 8000 --dry-run=client -oyaml

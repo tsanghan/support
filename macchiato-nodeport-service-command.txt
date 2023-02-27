@@ -1,0 +1,1 @@
+k expose deployment macchiato --name macchiato-nodeport --type NodePort --port 80 --target-port 8000
